@@ -7,7 +7,7 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	"github.com/alexzorin/libvirt-go"
+	"gopkg.in/alexzorin/libvirt-go.v2"
 	"io"
 	"io/ioutil"
 	"os"
